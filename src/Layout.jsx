@@ -14,7 +14,7 @@ export default function Layout() {
             <li className=" hover:text-red-600"><Link to="/">Home</Link></li>
             <li className=" hover:text-red-600"><Link to="service">Service</Link></li>
             <li className=" hover:text-red-600"><Link to="about">About</Link></li>
-            <li className=" hover:text-red-600"><Link to="contact">Contact</Link></li>
+            <li className=" hover:text-red-600"><Link to="contact">Contact Us</Link></li>
         </ul>
         </div>
         </div>
